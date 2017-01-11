@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="acrobatics">
+    <output-path>$PROJECT_DIR$/../../../games/Sponge/mods</output-path>
+    <root id="archive" name="acrobatics.jar">
+      <element id="module-output" name="Acrobatics" />
+    </root>
+  </artifact>
+</component>
